@@ -5,7 +5,7 @@ tinder.com
 cnn.com
 nyc.com
 fbi.gov
-facebook.net
+facebook.com
 youtube.com
 twitter.com
 vimeo.com
@@ -55,7 +55,7 @@ dell.com
 amazon.it
 amazon.ca
 tinyurl.com
-bing.net
+bing.com
 mailchimp.com
 wikidata.org
 news.com
@@ -105,7 +105,7 @@ tinder.com
 cnn.com
 nyc.com
 fbi.gov
-facebook.net
+facebook.com
 youtube.com
 twitter.com
 vimeo.com
@@ -155,7 +155,7 @@ dell.com
 amazon.it
 amazon.ca
 tinyurl.com
-bing.net
+bing.com
 mailchimp.com
 wikidata.org
 news.com
@@ -205,7 +205,7 @@ tinder.com
 cnn.com
 nyc.com
 fbi.gov
-facebook.net
+facebook.com
 youtube.com
 twitter.com
 vimeo.com
@@ -255,7 +255,7 @@ dell.com
 amazon.it
 amazon.ca
 tinyurl.com
-bing.net
+bing.com
 mailchimp.com
 wikidata.org
 news.com
@@ -305,7 +305,7 @@ tinder.com
 cnn.com
 nyc.com
 fbi.gov
-facebook.net
+facebook.com
 youtube.com
 twitter.com
 vimeo.com
@@ -355,7 +355,7 @@ dell.com
 amazon.it
 amazon.ca
 tinyurl.com
-bing.net
+bing.com
 mailchimp.com
 wikidata.org
 news.com
@@ -405,7 +405,7 @@ tinder.com
 cnn.com
 nyc.com
 fbi.gov
-facebook.net
+facebook.com
 youtube.com
 twitter.com
 vimeo.com
@@ -455,7 +455,7 @@ dell.com
 amazon.it
 amazon.ca
 tinyurl.com
-bing.net
+bing.com
 mailchimp.com
 wikidata.org
 news.com
@@ -505,7 +505,7 @@ tinder.com
 cnn.com
 nyc.com
 fbi.gov
-facebook.net
+facebook.com
 youtube.com
 twitter.com
 vimeo.com
@@ -555,7 +555,7 @@ dell.com
 amazon.it
 amazon.ca
 tinyurl.com
-bing.net
+bing.com
 mailchimp.com
 wikidata.org
 news.com
@@ -605,7 +605,7 @@ tinder.com
 cnn.com
 nyc.com
 fbi.gov
-facebook.net
+facebook.com
 youtube.com
 twitter.com
 vimeo.com
@@ -655,7 +655,7 @@ dell.com
 amazon.it
 amazon.ca
 tinyurl.com
-bing.net
+bing.com
 mailchimp.com
 wikidata.org
 news.com
@@ -705,7 +705,7 @@ tinder.com
 cnn.com
 nyc.com
 fbi.gov
-facebook.net
+facebook.com
 youtube.com
 twitter.com
 vimeo.com
@@ -755,7 +755,7 @@ dell.com
 amazon.it
 amazon.ca
 tinyurl.com
-bing.net
+bing.com
 mailchimp.com
 wikidata.org
 news.com
@@ -805,7 +805,7 @@ tinder.com
 cnn.com
 nyc.com
 fbi.gov
-facebook.net
+facebook.com
 youtube.com
 twitter.com
 vimeo.com
@@ -855,7 +855,7 @@ dell.com
 amazon.it
 amazon.ca
 tinyurl.com
-bing.net
+bing.com
 mailchimp.com
 wikidata.org
 news.com
@@ -905,7 +905,7 @@ tinder.com
 cnn.com
 nyc.com
 fbi.gov
-facebook.net
+facebook.com
 youtube.com
 twitter.com
 vimeo.com
@@ -955,7 +955,7 @@ dell.com
 amazon.it
 amazon.ca
 tinyurl.com
-bing.net
+bing.com
 mailchimp.com
 wikidata.org
 news.com
