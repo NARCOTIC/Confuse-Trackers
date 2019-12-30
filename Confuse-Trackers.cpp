@@ -41,9 +41,9 @@ int main()
 	i = 0;
 
 	fin.close();
-	fin.open("searches.txt");																// Open searches.txt
+	fin.open("searches.txt");								// Open searches.txt
 
-	while(!fin.eof())																		// While it's not the end of file, Input all in file to an array.
+	while(!fin.eof())									// While it's not the end of file, Input all in file to an array.
 	{
 		getline(fin, input);
 		searches[i] = input;
@@ -52,42 +52,42 @@ int main()
 
 	i = 0;
 
-	fin.close();																			// Close searches.txt
-	fin.open("websites.txt");																// Open websites.txt
+	fin.close();										// Close searches.txt
+	fin.open("websites.txt");								// Open websites.txt
 
-	while (!fin.eof())																		// While it's not the end of file, Input all in file to an array.
+	while (!fin.eof())									// While it's not the end of file, Input all in file to an array.
 	{
 		getline(fin, input);
 		websites[i] = input;
 		i++;
 	}
 
-	system("mode 86,20");																	// Width and Height of the Terminal Window
-	system("color 0C");																		// Text Color
+	system("mode 86,20");									// Width and Height of the Terminal Window
+	system("color 0C");									// Text Color
 
 	banner[6] = "                  --------> > > GITHUB/NARCOTIC < < <--------";
 
 	for (int i = 0; i < 12; i++)
 	{
-		cout << banner[i] << endl;															// Print the Banner
+		cout << banner[i] << endl;							// Print the Banner
 	}
 	cout << endl;
 
-	while (1 > 0)																			// Infinite Loop
+	while (1 > 0)										// Infinite Loop
 	{
-		rnd1 = rand() * timeNow % 1000 + 1;													// Generate a Random Number Between 1 and 1000
-		rnd2 = rand() * timeNow % 1000 + 1;													// Generate a Random Number Between 1 and 1000
+		rnd1 = rand() * timeNow % 1000 + 1;						// Generate a Random Number Between 1 and 1000
+		rnd2 = rand() * timeNow % 1000 + 1;						// Generate a Random Number Between 1 and 1000
 
-		system(("start " + browser + " " + pre + " " + searches[rnd1] + post).c_str());		// Search for a Random Word
-		system(("start " + browser + " " + websites[rnd2]).c_str());						// Go to a Random Website
+		system(("start " + browser + " " + pre + " " + searches[rnd1] + post).c_str());	// Search for a Random Word
+		system(("start " + browser + " " + websites[rnd2]).c_str());			// Go to a Random Website
 
-		system("timeout /t 10");															// 10 seconds interval
+		system("timeout /t 10");							// 10 seconds interval
 
 		counter++;
 
 		if (counter == 20)
 		{
-			system(("taskkill /im " + browser + ".exe" + " /f").c_str());					// Close the Browser after 20 Loops
+			system(("taskkill /im " + browser + ".exe" + " /f").c_str());		// Close the Browser after 20 Loops
 			counter = 0;
 		}
 	}
