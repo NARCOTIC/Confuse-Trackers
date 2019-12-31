@@ -25,13 +25,13 @@ int main()
 	time_t timeNow = time(0);
 
 	ifstream fin;
-	fin.open("settings.txt");																// Open settings.txt
+	fin.open("settings.txt");								// Open settings.txt
 
-	getline(fin, pre);																		// Get the first line of file
-	getline(fin, post);																		// Get the second line of file
-	getline(fin, browser);																	// Get the third line of file (You can define your browser here)
+	getline(fin, pre);									// Get the first line of file
+	getline(fin, post);									// Get the second line of file
+	getline(fin, browser);									// Get the third line of file (You can define your browser here)
 
-	while (!fin.eof())																		// While it's not the end of file, Input all in file to an array.
+	while (!fin.eof())									// While it's not the end of file, Input all in file to an array.
 	{
 		getline(fin, input);
 		banner[i] = input;
