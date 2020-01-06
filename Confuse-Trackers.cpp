@@ -16,20 +16,35 @@ int main()
 	string pre;
 	string post;
 	string browser;
+	string searchesURL;
+	string websitesURL;
 	string input;
 
 	string banner[12];
-	string searches[1000];
-	string websites[1000];
+	string searches[1001];
+	string websites[1001];
 
 	time_t timeNow = time(0);
 
 	ifstream fin;
+
 	fin.open("settings.txt");								// Open settings.txt
+
+	system("mode 86,20");									// Width and Height of the Terminal Window
+	system("color 0C");									// Text Color
 
 	getline(fin, pre);									// Get the first line of file
 	getline(fin, post);									// Get the second line of file
 	getline(fin, browser);									// Get the third line of file (You can define your browser here)
+	getline(fin, searchesURL);								// Get the URL of searches.txt file
+	getline(fin, websitesURL);								// Get the URL of websites.txt file
+
+	cout << "Updating Searches and Websites With Servers..." << endl << endl;
+
+	system(("curl " + searchesURL + " -O").c_str());					// Download the latest copy of searches.txt file from Github repo
+	system(("curl " + websitesURL + " -O").c_str());					// Download the latest copy of websites.txt file from Github repo
+
+	system("cls");										// Clears the screen
 
 	while (!fin.eof())									// While it's not the end of file, Input all in file to an array.
 	{
@@ -61,9 +76,6 @@ int main()
 		websites[i] = input;
 		i++;
 	}
-
-	system("mode 86,20");									// Width and Height of the Terminal Window
-	system("color 0C");									// Text Color
 
 	banner[6] = "                  --------> > > GITHUB/NARCOTIC < < <--------";
 
