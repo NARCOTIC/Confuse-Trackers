@@ -20,7 +20,7 @@ int main()
 	string websitesURL;
 	string input;
 
-	string banner[12];
+	string banner[14];
 	string searches[1001];
 	string websites[1001];
 
