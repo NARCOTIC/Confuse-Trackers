@@ -1,0 +1,32 @@
+"
+#include "DigiKeyboard.h"
+
+void setup() 
+{
+  DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);
+  DigiKeyboard.println("chrome.exe");
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);
+}
+void loop()
+{
+  DigiKeyboard.sendKeyStroke(0);
+  
+  unsigned long time;
+  
+  int randm = random(999999);
+  time = millis();
+
+  int itmNum = (randm * time) % 50;
+
+  DigiKeyboard.sendKeyStroke(0);
+  DigiKeyboard.sendKeyStroke(KEY_K, MOD_CONTROL_LEFT);
+
+  DigiKeyboard.sendKeyStroke(0);
+  switch (itmNum) 
+  {
+  default:
+    DigiKeyboard.println("Fuck Google!");
+    break;
+  }
+  DigiKeyboard.delay(5000);
+}
