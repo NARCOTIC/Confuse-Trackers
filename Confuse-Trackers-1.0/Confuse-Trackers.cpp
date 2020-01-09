@@ -102,8 +102,7 @@ int main()
 			system(("taskkill /im " + browser + ".exe" + " /f").c_str());		// Close the Browser after 20 Loops
 			counter = 0;
 		}
-	}
-	
+	}	
 	system("pause");
 	return 0;
 }
