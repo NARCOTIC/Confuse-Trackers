@@ -7,10 +7,11 @@ This program searches google and visits websites randomly to make it really hard
 
 🛠 Report Issues : [Here](https://github.com/NARCOTIC/Confuse-Trackers/issues)
 
+
 __When you add new searches and websites to ```searches.txt``` and ```websites.txt``` the program automatically downloads the latest searches and websites you added to every single user who uses it.__
 
 ## 👨🏽‍💻 Confuse-Trackers-1.0 - C++
-⚙️ 1. In ```settings.txt``` you can change ```line 3``` with your browser name (```chrome```, ```firefox```, etc.
+⚙️ 1. In ```settings.txt``` you can change ```line 3``` with your browser name (```chrome```, ```firefox```, etc.)
 
 ⚙️ 2. Add your searches list to ```searches.txt``` (Do not exceed 1000 lines).
 
