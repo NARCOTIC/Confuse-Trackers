@@ -1,11 +1,16 @@
 ## 👨🏽‍💻 Confuse-Trackers
 This program searches google and visits websites randomly to make it really hard to track you and fingerprint you.
 
-🛠 Add your keywords : [Here](https://github.com/NARCOTIC/Confuse-Trackers/blob/master/searches.txt).
+⚠️ __This program may be / may be not confuse trackers with advanced technology we see these days.__
 
-🛠 Add your websites : [Here](https://github.com/NARCOTIC/Confuse-Trackers/blob/master/websites.txt).
+⚠️ __This is a just first step and a research project and a tiny little contribution to the Internet Privacy Movement.__
 
-🛠 Report Issues : [Here](https://github.com/NARCOTIC/Confuse-Trackers/issues)
+  
+🛠 [ADD YOUR KEYWORDS](https://raw.githubusercontent.com/NARCOTIC/Confuse-Trackers/master/Confuse-Trackers-1.0/searches.txt).
+
+🛠 [ADD YOUR WEBSITES](https://raw.githubusercontent.com/NARCOTIC/Confuse-Trackers/master/Confuse-Trackers-1.0/websites.txt).
+
+🛠 [REPORT ISSUES](https://github.com/NARCOTIC/Confuse-Trackers/issues)
 
 
 __When you add new searches and websites to ```searches.txt``` and ```websites.txt``` the program automatically downloads the latest searches and websites you added to every single user who uses it.__
@@ -35,9 +40,14 @@ __When you add new searches and websites to ```searches.txt``` and ```websites.t
 ⚙️ 7. Flash your code to a Attiny85 or some other compatible board, and use.
 
 ## 👨🏽‍💻 Notes
-+ __Confuse-Trackers-1.0__ is a windows program. You can run it as a ```.exe``` file.
-+ __Confuse-Trackers-2.0__ is a program wrote for Attiny85 board.
-+ You can flash the code to the Attiny85 board and simply plug it in using USB port to run it.
-+ __Confuse-Trackers-1.0__ could be recognized by trackers because it executes inside the computer.
-+ __Confuse-Trackers-2.0__, Attiny85 board injects keystrokes to your computer and computer identify it as a keyboard.
-+ Attiny85 board can't hold that much data. If you can use another compatible board, it'd be better.
+👉 __Confuse-Trackers-1.0__ is a windows program. You can run it as a ```.exe``` file.
+
+👉 Could be recognized by trackers because it executes inside the computer.
+
+👉 __Confuse-Trackers-2.0__ is a program wrote for Attiny85 board.
+
+👉 Attiny85 board injects keystrokes to your computer and computer identify it as a keyboard.
+
+👉 You can flash the code to the Attiny85 board and simply plug it in using USB port to run it.
+
+👉 Attiny85 board can't hold that much data. If you can use another compatible board, it'll hold more searches.
