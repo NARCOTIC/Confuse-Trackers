@@ -1,16 +1,14 @@
 ## 👨🏽‍💻 Confuse-Trackers
-This program searches google and visits websites randomly to make it really hard to track you and fingerprint you.
+⚠️ __This program searches google and visits websites randomly to make it really hard to track you and fingerprint you.__
 
-⚠️ __This program may be / may be not confuse trackers with advanced technology we see these days.__
+⚠️ __This program will / will not confuse trackers with advanced technology we see these days.__
 
 ⚠️ __This is a just first step and a research project and a tiny little contribution to the Internet Privacy Movement.__
 
   
-🛠 [ADD YOUR KEYWORDS](https://raw.githubusercontent.com/NARCOTIC/Confuse-Trackers/master/Confuse-Trackers-1.0/searches.txt).
-
-🛠 [ADD YOUR WEBSITES](https://raw.githubusercontent.com/NARCOTIC/Confuse-Trackers/master/Confuse-Trackers-1.0/websites.txt).
-
-🛠 [REPORT ISSUES](https://github.com/NARCOTIC/Confuse-Trackers/issues)
+🛠 [ADD YOUR SEARCH KEYWORDS](https://raw.githubusercontent.com/NARCOTIC/Confuse-Trackers/master/Confuse-Trackers-1.0/searches.txt)
+🛠 [ADD YOUR WEBSITE URLS](https://raw.githubusercontent.com/NARCOTIC/Confuse-Trackers/master/Confuse-Trackers-1.0/websites.txt)
+🛠 [REPORT ISSUES AND SUGGESTIONS](https://github.com/NARCOTIC/Confuse-Trackers/issues) 🛠
 
 
 __When you add new searches and websites to ```searches.txt``` and ```websites.txt``` the program automatically downloads the latest searches and websites you added to every single user who uses it.__
