@@ -5,6 +5,7 @@ This program searches google and visits websites randomly to make it really hard
 1. In ```settings.txt``` you can change ```line 3``` with your browser name (```chrome```, ```firefox```, etc.)
 2. Add your searches list to ```searches.txt``` (Do not exceed 1000 lines).
 3. Add your websites list to ```websites.txt``` (Do not exceed 1000 lines).
+4. Compile and use.
 
 ## 👨🏽‍💻 Confuse-Trackers-2.0 - C/C++ (Flash to a Digistump Attiny85)
 1. Add your searches list to ```searches.txt```.
