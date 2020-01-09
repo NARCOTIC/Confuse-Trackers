@@ -1,9 +1,9 @@
 "?
 "
 chrome
-https://raw.githubusercontent.com/NARCOTIC/Confuse-Trackers/master/searches.txt
-https://raw.githubusercontent.com/NARCOTIC/Confuse-Trackers/master/websites.txt
- ______     ______     __   __     ______   __  __     ______     ______              
+https://raw.githubusercontent.com/NARCOTIC/Confuse-Trackers/master/Confuse-Trackers-1.0/searches.txt
+https://raw.githubusercontent.com/NARCOTIC/Confuse-Trackers/master/Confuse-Trackers-1.0/websites.txt
+______     ______     __   __     ______   __  __     ______     ______              
 /\  ___\   /\  __ \   /\ "-.\ \   /\  ___\ /\ \/\ \   /\  ___\   /\  ___\             
 \ \ \____  \ \ \/\ \  \ \ \-.  \  \ \  __\ \ \ \_\ \  \ \___  \  \ \  __\             
  \ \_____\  \ \_____\  \ \_\\"\_\  \ \_\    \ \_____\  \/\_____\  \ \_____\           
