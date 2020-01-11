@@ -1,5 +1,5 @@
 ## 👨🏽‍💻 Confuse-Trackers
-⚠️ __This program searches google and visits websites randomly to make it really hard to track you and fingerprint you.__
+⚠️ __This program searches google and visits websites randomly to make it hard to fingerprint you.__
 
 ⚠️ __This program will / will not confuse trackers with advanced technology we see these days.__
 
