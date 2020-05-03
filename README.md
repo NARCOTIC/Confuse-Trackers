@@ -6,11 +6,6 @@
 ⚠️ __This is a just first step and a research project and a tiny little contribution to the Internet Privacy Movement.__
 
   
-🛠 [ADD YOUR SEARCH KEYWORDS](https://raw.githubusercontent.com/NARCOTIC/Confuse-Trackers/master/Confuse-Trackers-1.0/searches.txt)
-🛠 [ADD YOUR WEBSITE URLS](https://raw.githubusercontent.com/NARCOTIC/Confuse-Trackers/master/Confuse-Trackers-1.0/websites.txt)
-🛠 [REPORT ISSUES AND SUGGESTIONS](https://github.com/NARCOTIC/Confuse-Trackers/issues) 🛠
-
-
 __When you add new searches and websites to ```searches.txt``` and ```websites.txt``` the program automatically downloads the latest searches and websites you added to every single user who uses it.__
 
 ## 👨🏽‍💻 Confuse-Trackers-1.0 - C++
@@ -21,6 +16,7 @@ __When you add new searches and websites to ```searches.txt``` and ```websites.t
 ⚙️ 3. Add your websites list to ```websites.txt``` (Do not exceed 1000 lines).
 
 ⚙️ 4. Compile and use.
+
 
 ## 👨🏽‍💻 Confuse-Trackers-2.0 - C/C++ (Flash to a Digistump Attiny85)
 ⚙️ 1. Add your searches list to ```searches.txt```.
@@ -36,6 +32,7 @@ __When you add new searches and websites to ```searches.txt``` and ```websites.t
 ⚙️ 6. After you get the final code, install __Digistump__ drivers and libraries (Search YouTube if you don't know).
 
 ⚙️ 7. Flash your code to a Attiny85 or some other compatible board, and use.
+
 
 ## 👨🏽‍💻 Notes
 👉 __Confuse-Trackers-1.0__ is a windows program. You can run it as a ```.exe``` file.
