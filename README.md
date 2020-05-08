@@ -8,7 +8,7 @@
   
 __When you add new searches and websites to ```searches.txt``` and ```websites.txt``` the program automatically downloads the latest searches and websites you added to every single user who uses it.__
 
-## 👨🏽‍💻 Confuse-Trackers-1.0 - C++
+## 👨🏽‍💻 Confuse-Trackers-1.0 - [Language: C++]
 ⚙️ 1. In ```settings.txt``` you can change ```line 3``` with your browser name (```chrome```, ```firefox```, etc.)
 
 ⚙️ 2. Add your searches list to ```searches.txt``` (Do not exceed 1000 lines).
@@ -18,7 +18,7 @@ __When you add new searches and websites to ```searches.txt``` and ```websites.t
 ⚙️ 4. Compile and use.
 
 
-## 👨🏽‍💻 Confuse-Trackers-2.0 - C/C++ (Flash to a Digistump Attiny85)
+## 👨🏽‍💻 Confuse-Trackers-2.0 - [Language: C] - (Flash to a Digistump Attiny85)
 ⚙️ 1. Add your searches list to ```searches.txt```.
 
 ⚙️ 2. When you add searches be careful about how many lines you add. Attiny85 can only hold approx. 50 lines.
